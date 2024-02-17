@@ -1,4 +1,4 @@
-# Groovy-README-Generator
+# README-Assembler
 
 ## User Story
 
@@ -34,9 +34,9 @@ Provided with an index.js and generateMarkdown.js file with empty functions, com
 
 ![img](./Assets/readme-screenshot.png)
 
-## Link to Video
+## Link 
 
-https://www.youtube.com/watch?v=BGW5I8wH-Gg
+(https://frankaroca.github.io/README-Assembler/)
 
 ## How to Run
 
